@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Book Search</string>
+    <string name="sample_description">The Android development platform, created by Google and the Open Handset Alliance, is a platform in its truest sense,
+        encompassing hundreds of classes beyond the traditional Java classes and open source components that ship with the SDK. With Beginning Android 2,
+        you’ll learn how to develop applications for Android 2.x mobile devices, using simple examples that are ready to run with your copy of the software
+        development kit. Author, Android columnist, writer, developer, and community advocate Mark L. Murphy will show you what you need to know to get started
+        programming Android applications, including how to craft graphical user interfaces, use GPS, and access web services. What you’ll learn Discover Android
+        and how to use it to build Java-based mobile applications for a wide range of phones and other devices. Create user interfaces using both the Android widget
+        framework and the built-in WebKit-powered Web browser components. Utilize the distinctive capabilities of the Android engine, including location tracking,
+        maps, and Internet access. Use and create Android applications incorporating activities, services, content providers, and broadcast receivers. Support Android
+        1.5, 1.6, and 2.0 devices, including dealing with multiple Android OS versions, multiple screen sizes, and other device-specific characteristics. Who this book
+        is for This book is aimed at people new to mobile development, but with some knowledge of Java. Table of Contents The Big Picture Projects  Targets Creating a
+        Skeleton Application Using XML-Based Layouts Employing Basic Widgets Working with Containers Using Selection Widgets Getting Fancy With Lists Employing Fancy
+        Widgets and Containers The Input Method Framework Applying Menus Fonts Embedding the WebKit Browser Showing Pop-Up Messages Dealing with Threads Handling Activity
+        Lifecycle Events Creating Intent Filters Launching Activities and Sub-Activities Handling Rotation Working with Resources Using Preferences Managing and Accessing Local
+        Databases Accessing Files Leveraging Java Libraries Communicating via the Internet Using a Content Provider Building a Content Provider Requesting and Requiring Permissions
+        Creating a Service Invoking a Service Alerting Users Via Notifications Accessing Location-Based Services Mapping with MapView and MapActivity Handling Telephone Calls Development
+        Tools Handling Multiple Screen Sizes Dealing with Devices Handling Platform Changes Where Do We Go From Here?</string>
+</resources>
